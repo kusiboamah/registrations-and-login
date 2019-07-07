@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0db9b9e6-a552-4f4b-8beb-722ecda09a10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Logins_and_signups.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logins_and_signups/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logins_and_signups/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logins_and_signups/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logins_and_signups/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dappx/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dappx/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dappx/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dappx/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dappx/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dappx/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dappx/register_form.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dappx/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dappx/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dappx/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/IMG-20151209-WA0001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/dappx/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/dappx/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/dappx/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/dappx/registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -197,9 +170,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="639" />
+    <option name="x" value="521" />
     <option name="y" value="106" />
-    <option name="width" value="1221" />
+    <option name="width" value="1339" />
     <option name="height" value="635" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -307,16 +280,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562502358970</updated>
-      <workItem from="1562502365288" duration="10266000" />
+      <workItem from="1562502365288" duration="11021000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10266000" />
+    <option name="totallyTimeSpent" value="11021000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="639" y="106" width="1221" height="635" extended-state="0" />
-    <editor active="true" />
+    <frame x="521" y="106" width="1339" height="635" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.18127659" />
